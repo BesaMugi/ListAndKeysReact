@@ -1,0 +1,17 @@
+.table{
+    flex-wrap: wrap;
+}
+
+.tr{
+    text-align: center;
+    width: 200px;
+    margin-bottom: 30px;
+}
+
+img{
+    width: 150px;
+}
+
+td, th{
+    border: solid black 1px;
+}
